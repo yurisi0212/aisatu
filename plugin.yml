@@ -1,0 +1,18 @@
+name: aisatu
+main: aisatu\aisatu
+version: 1.0.0
+api: [1.13.0]
+load: POSTWORLD
+author: yurisi0212
+description: 挨拶します!
+website: 
+commands:
+ k:
+  description: "挨拶をします"
+  usage: " /k "
+ otukare:
+  description: "お疲れ様の挨拶"
+  usage: " /otukare "
+ oti:
+  description: "皆に落ちますといいます"
+  usage: " /oti "
