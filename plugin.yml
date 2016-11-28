@@ -3,7 +3,7 @@ main: aisatu\aisatu
 version: 1.0.0
 api: [1.13.0]
 load: POSTWORLD
-author: yurisi
+author: yurisi0212
 description: 挨拶します!
 website: 
 commands:
